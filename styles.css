@@ -14,6 +14,9 @@ body {
     background-size: cover;
     color: #eaeaea;
 }
+img{
+    height: 250px;
+}
 
 *.hide {
     display: none !important;
