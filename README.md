@@ -14,6 +14,10 @@
 
 - 📄 Know about my experiences [https://saurabhmauryaresume.netlify.app/](https://saurabhmauryaresume.netlify.app/)
 
+## Screenshots
+![Screenshot ](https://user-images.githubusercontent.com/97622677/187086220-701f641e-8cf7-48a4-b0dd-5998ef7fef4f.png)
+![Screenshot 2022-08-28 224342](https://user-images.githubusercontent.com/97622677/187086359-bb7555a9-fe55-4095-9226-a36365086711.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-maurya-606291213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-maurya-606291213/" height="30" width="40" /></a>
